@@ -1,0 +1,1355 @@
+[
+  {
+    "id": 1,
+    "name": "ابوالفضل اسکندری",
+    "category": "اراک",
+    "age": "19",
+    "death_place": "اراک",
+    "province": "مرکزی",
+    "date": "۱۸ دی ۱۴۰۴",
+    "details": "اصالتاً اهل خلخال و سرباز در شازند؛ در اعتراضات اراک با گلوله به گردن و کمر کشته شد.",
+    "confidence": "بالا",
+    "note": "",
+    "sources": [
+      "https://iranwire.com/fa/news-1/148874-%D8%A7%D8%A8%D9%88%D8%A7%D9%84%D9%81%D8%B6%D9%84-%D8%A7%D8%B3%DA%A9%D9%86%D8%AF%D8%B1%DB%8C-%DB%8C%DA%A9-%D9%87%D9%81%D8%AA%D9%87-%D9%BE%D8%B3-%D8%A7%D8%B2-%D8%AA%D9%88%D9%84%D8%AF-%DB%B1%DB%B9%D8%B3%D8%A7%D9%84%DA%AF%DB%8C%D8%A7%D8%B4-%DA%A9%D8%B4%D8%AA%D9%87-%D8%B4%D8%AF/"
+    ],
+    "image": "images/001.png"
+  },
+  {
+    "id": 2,
+    "name": "ابوالفضل بیک محمدی",
+    "category": "اراک",
+    "age": "نامشخص",
+    "death_place": "اراک",
+    "province": "مرکزی",
+    "date": "۱۹ دی ۱۴۰۴",
+    "details": "در چند پایگاه مستقل در شمار جان‌باختگان اراک ثبت شده است.",
+    "confidence": "متوسط",
+    "note": "",
+    "sources": [
+      "https://www.namesofiran.org/fa/iran/markazi/arak",
+      "https://shohadayeghiam.info/list?date=1404-10&page=43"
+    ],
+    "image": "images/002.png"
+  },
+  {
+    "id": 3,
+    "name": "ابوذر شمس",
+    "category": "اراک",
+    "age": "نامشخص",
+    "death_place": "نیازمند تأیید",
+    "province": "نیازمند تأیید",
+    "date": "نامشخص",
+    "details": "",
+    "confidence": "پایین",
+    "note": "در جست‌وجوی فعلی جزئیات عمومی قابل اتکای بیشتری پیدا نشد؛ محل فولدر، دسته‌بندی اولیه شماست و لزوماً محل دقیق کشته‌شدن تأییدشده نیست.",
+    "sources": [],
+    "image": "images/003.png"
+  },
+  {
+    "id": 4,
+    "name": "احسان اکبری",
+    "category": "اراک",
+    "age": "27",
+    "death_place": "اراک",
+    "province": "مرکزی",
+    "date": "۱۸ دی ۱۴۰۴",
+    "details": "با گلوله ساچمه‌ای و سپس گلوله جنگی به قلب و سر هدف قرار گرفت.",
+    "confidence": "بالا",
+    "note": "",
+    "sources": [
+      "https://witness.report/people/350eca72-f788-11f0-b167-560003f1f421/ehsan-akbari"
+    ],
+    "image": "images/004.png"
+  },
+  {
+    "id": 5,
+    "name": "احمد آنجفی",
+    "category": "اراک",
+    "age": "67-68",
+    "death_place": "اراک",
+    "province": "مرکزی",
+    "date": "۱۸ دی ۱۴۰۴",
+    "details": "در فهرست‌های یادبود اراک با سن حدود ۶۷/۶۸ سال ثبت شده است.",
+    "confidence": "متوسط",
+    "note": "",
+    "sources": [
+      "https://www.namesofiran.org/fa/iran/markazi/arak",
+      "https://shohadayeghiam.info/list?date=1404-10-18"
+    ],
+    "image": "images/005.png"
+  },
+  {
+    "id": 6,
+    "name": "ارمیا فضلی",
+    "category": "اراک",
+    "age": "20 (منابع اولیه: زیر ۱۸؛ اختلاف منبع)",
+    "death_place": "اراک",
+    "province": "مرکزی",
+    "date": "۱۸ دی ۱۴۰۴",
+    "details": "در اعتراضات اراک با شلیک کشته شد؛ درباره سن میان منابع اختلاف وجود دارد.",
+    "confidence": "متوسط",
+    "note": "",
+    "sources": [
+      "https://iranwire.com/petition/147777-%D8%A7%D8%B1%D9%85%DB%8C%D8%A7-%D9%81%D8%B6%D9%84%DB%8C-%D8%AF%D8%B1-%D8%A7%D8%B9%D8%AA%D8%B1%D8%A7%D8%B6%D8%A7%D8%AA-%D8%A7%D8%B1%D8%A7%DA%A9-%DA%A9%D8%B4%D8%AA%D9%87-%D8%B4%D8%AF/",
+      "https://www.iranintl.com/202602151317"
+    ],
+    "image": "images/006.jpeg"
+  },
+  {
+    "id": 7,
+    "name": "اسماعیل گنج گلی",
+    "category": "اراک",
+    "age": "نامشخص",
+    "death_place": "نیازمند تأیید",
+    "province": "نیازمند تأیید",
+    "date": "نامشخص",
+    "details": "",
+    "confidence": "پایین",
+    "note": "در جست‌وجوی فعلی جزئیات عمومی قابل اتکای بیشتری پیدا نشد؛ محل فولدر، دسته‌بندی اولیه شماست و لزوماً محل دقیق کشته‌شدن تأییدشده نیست.",
+    "sources": [],
+    "image": "images/007.png"
+  },
+  {
+    "id": 8,
+    "name": "امید باقری",
+    "category": "اراک",
+    "age": "34",
+    "death_place": "اراک",
+    "province": "مرکزی",
+    "date": "۱۸ دی ۱۴۰۴",
+    "details": "نصاب آسانسور؛ گزارش‌ها اصابت گلوله جنگی به سر را ذکر کرده‌اند.",
+    "confidence": "بالا",
+    "note": "",
+    "sources": [
+      "https://iranmassacre.net/person/2a-%D8%A7%D9%85%DB%8C%D8%AF-%D8%A8%D8%A7%D9%82%D8%B1%DB%8C/"
+    ],
+    "image": "images/008.png"
+  },
+  {
+    "id": 9,
+    "name": "امیر داوودآبادی",
+    "category": "اراک",
+    "age": "نامشخص",
+    "death_place": "نیازمند تأیید",
+    "province": "نیازمند تأیید",
+    "date": "نامشخص",
+    "details": "",
+    "confidence": "پایین",
+    "note": "در جست‌وجوی فعلی جزئیات عمومی قابل اتکای بیشتری پیدا نشد؛ محل فولدر، دسته‌بندی اولیه شماست و لزوماً محل دقیق کشته‌شدن تأییدشده نیست.",
+    "sources": [],
+    "image": "images/009.png"
+  },
+  {
+    "id": 10,
+    "name": "امیرحسین دولت آبادی",
+    "category": "اراک",
+    "age": "19",
+    "death_place": "اراک",
+    "province": "مرکزی",
+    "date": "۱۸ دی ۱۴۰۴",
+    "details": "در فهرست‌های چندگانه جان‌باختگان اراک ثبت شده است.",
+    "confidence": "متوسط",
+    "note": "",
+    "sources": [
+      "https://shohadayeghiam.info/list?date=1404-10&page=45"
+    ],
+    "image": "images/010.jpg"
+  },
+  {
+    "id": 11,
+    "name": "امیرحسین گودرزی",
+    "category": "اراک",
+    "age": "21 (برخی فهرست‌ها 20)",
+    "death_place": "اراک",
+    "province": "مرکزی",
+    "date": "۱۸ دی ۱۴۰۴",
+    "details": "دانشجوی برق دانشگاه آزاد اراک؛ با سه گلوله هدف قرار گرفت.",
+    "confidence": "بالا",
+    "note": "",
+    "sources": [
+      "https://iranwire.com/petition/148506-%D8%A7%D9%85%DB%8C%D8%B1%D8%AD%D8%B3%DB%8C%D9%86-%DA%AF%D9%88%D8%AF%D8%B1%D8%B2%DB%8C-%D8%AA%DA%A9%D9%81%D8%B1%D8%B2%D9%86%D8%AF-%D8%AE%D8%A7%D9%86%D9%88%D8%A7%D8%AF%D9%87-%D8%B1%D8%A7-%D8%A8%D8%A7-%D8%B3%D9%87-%DA%AF%D9%84%D9%88%D9%84%D9%87-%DA%A9%D8%B4%D8%AA%D9%86%D8%AF/"
+    ],
+    "image": "images/011.png"
+  },
+  {
+    "id": 12,
+    "name": "امیررضا نوروزی",
+    "category": "اراک",
+    "age": "نامشخص",
+    "death_place": "اراک",
+    "province": "مرکزی",
+    "date": "۱۸ دی ۱۴۰۴",
+    "details": "دانشجوی حسابداری دانشگاه آزاد اراک؛ در خیابان محسنی با شلیک به قلب کشته شد.",
+    "confidence": "بالا",
+    "note": "",
+    "sources": [
+      "https://iranwire.com/fa/news-1/148205-%D8%A7%D9%85%DB%8C%D8%B1%D8%B1%D8%B6%D8%A7-%D9%86%D9%88%D8%B1%D9%88%D8%B2%DB%8C-%D8%A8%D8%A7-%D8%B4%D9%84%DB%8C%DA%A9-%D9%86%DB%8C%D8%B1%D9%88%D9%87%D8%A7%DB%8C-%D8%AD%DA%A9%D9%88%D9%85%D8%AA%DB%8C-%D8%A8%D9%87-%D9%82%D9%84%D8%A8%D8%B4-%D8%AF%D8%B1-%D8%A7%D8%B1%D8%A7%DA%A9-%DA%A9%D8%B4%D8%AA%D9%87-%D8%B4%D8%AF/"
+    ],
+    "image": "images/012.png"
+  },
+  {
+    "id": 13,
+    "name": "امیرمهدی نعمتی‌نژاد",
+    "category": "اراک",
+    "age": "17",
+    "death_place": "اراک",
+    "province": "مرکزی",
+    "date": "۱۸ دی ۱۴۰۴",
+    "details": "کودک کار و کارگر خیاطی؛ در میدان شورا با شلیک کشته شد.",
+    "confidence": "بالا",
+    "note": "",
+    "sources": [
+      "https://witness.report/people/24248ffc-0259-11f1-a725-560003f1f421/amirmehdi-nematinejad"
+    ],
+    "image": "images/013.png"
+  },
+  {
+    "id": 14,
+    "name": "آرمان حاج یوسفی",
+    "category": "اراک",
+    "age": "نامشخص",
+    "death_place": "نیازمند تأیید",
+    "province": "نیازمند تأیید",
+    "date": "نامشخص",
+    "details": "",
+    "confidence": "پایین",
+    "note": "در جست‌وجوی فعلی جزئیات عمومی قابل اتکای بیشتری پیدا نشد؛ محل فولدر، دسته‌بندی اولیه شماست و لزوماً محل دقیق کشته‌شدن تأییدشده نیست.",
+    "sources": [],
+    "image": "images/014.png"
+  },
+  {
+    "id": 15,
+    "name": "ایرج یوسفی",
+    "category": "اراک",
+    "age": "49",
+    "death_place": "اراک",
+    "province": "مرکزی",
+    "date": "۱۸ دی ۱۴۰۴",
+    "details": "پدر دو فرزند؛ در میدان شورا با تیر جنگی به پهلو هدف قرار گرفت.",
+    "confidence": "بالا",
+    "note": "",
+    "sources": [
+      "https://www.iranintl.com/202602037925"
+    ],
+    "image": "images/015.png"
+  },
+  {
+    "id": 16,
+    "name": "بابک جمالی",
+    "category": "اراک",
+    "age": "نامشخص",
+    "death_place": "نیازمند تأیید",
+    "province": "نیازمند تأیید",
+    "date": "نامشخص",
+    "details": "",
+    "confidence": "پایین",
+    "note": "در جست‌وجوی فعلی جزئیات عمومی قابل اتکای بیشتری پیدا نشد؛ محل فولدر، دسته‌بندی اولیه شماست و لزوماً محل دقیق کشته‌شدن تأییدشده نیست.",
+    "sources": [],
+    "image": "images/016.png"
+  },
+  {
+    "id": 17,
+    "name": "جمیله شفیعی",
+    "category": "اراک",
+    "age": "نامشخص",
+    "death_place": "نیازمند تأیید",
+    "province": "نیازمند تأیید",
+    "date": "نامشخص",
+    "details": "",
+    "confidence": "پایین",
+    "note": "در جست‌وجوی فعلی جزئیات عمومی قابل اتکای بیشتری پیدا نشد؛ محل فولدر، دسته‌بندی اولیه شماست و لزوماً محل دقیق کشته‌شدن تأییدشده نیست.",
+    "sources": [],
+    "image": "images/017.png"
+  },
+  {
+    "id": 18,
+    "name": "حسین وثوق",
+    "category": "اراک",
+    "age": "نامشخص",
+    "death_place": "نیازمند تأیید",
+    "province": "نیازمند تأیید",
+    "date": "نامشخص",
+    "details": "",
+    "confidence": "پایین",
+    "note": "در جست‌وجوی فعلی جزئیات عمومی قابل اتکای بیشتری پیدا نشد؛ محل فولدر، دسته‌بندی اولیه شماست و لزوماً محل دقیق کشته‌شدن تأییدشده نیست.",
+    "sources": [],
+    "image": "images/018.png"
+  },
+  {
+    "id": 19,
+    "name": "رضا شریفی",
+    "category": "اراک",
+    "age": "42 (یک منبع 44)",
+    "death_place": "اراک",
+    "province": "مرکزی",
+    "date": "۱۹ دی ۱۴۰۴",
+    "details": "کاسب میدان فرهان؛ مقابل بیمارستان ولیعصر با گلوله از پهلو کشته شد.",
+    "confidence": "بالا",
+    "note": "",
+    "sources": [
+      "https://iranwire.com/petition/148959-%D8%B1%D8%B6%D8%A7-%D8%B4%D8%B1%DB%8C%D9%81%DB%8C-%DA%A9%D8%A7%D8%B3%D8%A8-%D8%AE%D9%88%D8%B4%D8%A7%D8%AE%D9%84%D8%A7%D9%82-%D9%85%DB%8C%D8%AF%D8%A7%D9%86-%D9%81%D8%B1%D9%87%D8%A7%D9%86-%D8%A7%D8%B1%D8%A7%DA%A9-%D8%B1%D8%A7-%DB%B1%DB%B9%D8%AF%DB%8C-%DA%A9%D8%B4%D8%AA%D9%86%D8%AF/"
+    ],
+    "image": "images/019.png"
+  },
+  {
+    "id": 20,
+    "name": "سعید آریان",
+    "category": "اراک",
+    "age": "55",
+    "death_place": "اراک",
+    "province": "مرکزی",
+    "date": "۱۸ دی ۱۴۰۴",
+    "details": "مهندس پالایشگاه اراک، اصالتاً اهل ایذه؛ در خیابان شریعتی ناپدید و پیکرش بعداً تحویل شد.",
+    "confidence": "بالا",
+    "note": "",
+    "sources": [
+      "https://javidaniran.org/children/%D8%B3%D8%B9%DB%8C%D8%AF-%D8%A2%D8%B1%DB%8C%D8%A7%D9%86-%D9%84%DB%8C%D9%85%D9%88%DA%86%DB%8C/",
+      "https://www.namesofiran.org/fa/people/saeed-arian"
+    ],
+    "image": "images/020.png"
+  },
+  {
+    "id": 21,
+    "name": "سعید تقوایی",
+    "category": "اراک",
+    "age": "نامشخص",
+    "death_place": "اراک",
+    "province": "مرکزی",
+    "date": "۱۹ دی ۱۴۰۴",
+    "details": "در جریان اعتراضات اراک با اصابت گلوله کشته شد.",
+    "confidence": "متوسط",
+    "note": "",
+    "sources": [
+      "https://iranremembered.com/fa/memorial/fc958ac9-384d-40b4-a310-955ae2246579"
+    ],
+    "image": "images/021.png"
+  },
+  {
+    "id": 22,
+    "name": "سعید رهبرنژاد",
+    "category": "اراک",
+    "age": "نامشخص",
+    "death_place": "نیازمند تأیید",
+    "province": "نیازمند تأیید",
+    "date": "نامشخص",
+    "details": "",
+    "confidence": "پایین",
+    "note": "در جست‌وجوی فعلی جزئیات عمومی قابل اتکای بیشتری پیدا نشد؛ محل فولدر، دسته‌بندی اولیه شماست و لزوماً محل دقیق کشته‌شدن تأییدشده نیست.",
+    "sources": [],
+    "image": "images/022.png"
+  },
+  {
+    "id": 23,
+    "name": "سعید سلیمانی پور",
+    "category": "اراک",
+    "age": "نامشخص",
+    "death_place": "نیازمند تأیید",
+    "province": "نیازمند تأیید",
+    "date": "نامشخص",
+    "details": "",
+    "confidence": "پایین",
+    "note": "در جست‌وجوی فعلی جزئیات عمومی قابل اتکای بیشتری پیدا نشد؛ محل فولدر، دسته‌بندی اولیه شماست و لزوماً محل دقیق کشته‌شدن تأییدشده نیست.",
+    "sources": [],
+    "image": "images/023.png"
+  },
+  {
+    "id": 24,
+    "name": "سعید میری",
+    "category": "اراک",
+    "age": "نامشخص",
+    "death_place": "نیازمند تأیید",
+    "province": "نیازمند تأیید",
+    "date": "نامشخص",
+    "details": "",
+    "confidence": "پایین",
+    "note": "در جست‌وجوی فعلی جزئیات عمومی قابل اتکای بیشتری پیدا نشد؛ محل فولدر، دسته‌بندی اولیه شماست و لزوماً محل دقیق کشته‌شدن تأییدشده نیست.",
+    "sources": [],
+    "image": "images/024.png"
+  },
+  {
+    "id": 25,
+    "name": "علی حق‌شناس",
+    "category": "اراک",
+    "age": "نامشخص",
+    "death_place": "نیازمند تأیید",
+    "province": "نیازمند تأیید",
+    "date": "نامشخص",
+    "details": "",
+    "confidence": "پایین",
+    "note": "در جست‌وجوی فعلی جزئیات عمومی قابل اتکای بیشتری پیدا نشد؛ محل فولدر، دسته‌بندی اولیه شماست و لزوماً محل دقیق کشته‌شدن تأییدشده نیست.",
+    "sources": [],
+    "image": "images/025.jpg"
+  },
+  {
+    "id": 26,
+    "name": "علی نوری",
+    "category": "اراک",
+    "age": "17",
+    "death_place": "اراک",
+    "province": "مرکزی",
+    "date": "۱۸ دی ۱۴۰۴",
+    "details": "فوتبالیست و عضو آکادمی فوتبال بهمن اراک؛ با شلیک مستقیم در اعتراضات اراک کشته شد.",
+    "confidence": "بالا",
+    "note": "",
+    "sources": [
+      "https://hengaw.org/victims/victims-7e5a2b44-20260408",
+      "https://www.daadaar.com/fa/memorial/Pd8VXNpbknnU"
+    ],
+    "image": "images/026.jpg"
+  },
+  {
+    "id": 27,
+    "name": "علیرضا سیدی",
+    "category": "اراک",
+    "age": "نامشخص",
+    "death_place": "نیازمند تأیید",
+    "province": "نیازمند تأیید",
+    "date": "نامشخص",
+    "details": "",
+    "confidence": "پایین",
+    "note": "در جست‌وجوی فعلی جزئیات عمومی قابل اتکای بیشتری پیدا نشد؛ محل فولدر، دسته‌بندی اولیه شماست و لزوماً محل دقیق کشته‌شدن تأییدشده نیست.",
+    "sources": [],
+    "image": "images/027.png"
+  },
+  {
+    "id": 28,
+    "name": "مجتبی موسوی",
+    "category": "اراک",
+    "age": "نامشخص",
+    "death_place": "نیازمند تأیید",
+    "province": "نیازمند تأیید",
+    "date": "نامشخص",
+    "details": "",
+    "confidence": "پایین",
+    "note": "در جست‌وجوی فعلی جزئیات عمومی قابل اتکای بیشتری پیدا نشد؛ محل فولدر، دسته‌بندی اولیه شماست و لزوماً محل دقیق کشته‌شدن تأییدشده نیست.",
+    "sources": [],
+    "image": "images/028.jpg"
+  },
+  {
+    "id": 29,
+    "name": "محمد رنجبر",
+    "category": "اراک",
+    "age": "32",
+    "death_place": "اراک",
+    "province": "مرکزی",
+    "date": "۱۸ دی ۱۴۰۴",
+    "details": "پدر یک کودک و فروشنده لوازم یدکی؛ با شلیک مستقیم به سر کشته شد.",
+    "confidence": "بالا",
+    "note": "",
+    "sources": [
+      "https://iranwire.com/fa/news-1/148067-%25D9%2585%25D8%25AD%25D9%2585%25D8%25AF-%25D8%25B1%25D9%2586%25D8%25AC%25D8%25A8%25D8%25B1-%25D9%25BE%25D8%25AF%25D8%25B1-%25DB%258C%25DA%25A9-%25DA%25A9%25D9%2588%25D8%25AF%25DA%25A9-%25D8%25AF%25D8%25B1-%25D8%25A7%25D8%25B1%25D8%25A7%25DA%25A9-%25DA%25A9%25D8%25B4%25D8%25AA%25D9%2587-%25D8%25B4%25D8%25AF/"
+    ],
+    "image": "images/029.png"
+  },
+  {
+    "id": 30,
+    "name": "محمد موسوی",
+    "category": "اراک",
+    "age": "نامشخص",
+    "death_place": "نیازمند تأیید",
+    "province": "نیازمند تأیید",
+    "date": "نامشخص",
+    "details": "",
+    "confidence": "پایین",
+    "note": "در جست‌وجوی فعلی جزئیات عمومی قابل اتکای بیشتری پیدا نشد؛ محل فولدر، دسته‌بندی اولیه شماست و لزوماً محل دقیق کشته‌شدن تأییدشده نیست.",
+    "sources": [],
+    "image": "images/030.png"
+  },
+  {
+    "id": 31,
+    "name": "محمدرضا فرجی",
+    "category": "اراک",
+    "age": "نامشخص",
+    "death_place": "نیازمند تأیید",
+    "province": "نیازمند تأیید",
+    "date": "نامشخص",
+    "details": "",
+    "confidence": "پایین",
+    "note": "در جست‌وجوی فعلی جزئیات عمومی قابل اتکای بیشتری پیدا نشد؛ محل فولدر، دسته‌بندی اولیه شماست و لزوماً محل دقیق کشته‌شدن تأییدشده نیست.",
+    "sources": [],
+    "image": "images/031.jpg"
+  },
+  {
+    "id": 32,
+    "name": "مصطفی موحد",
+    "category": "اراک",
+    "age": "نامشخص",
+    "death_place": "نیازمند تأیید",
+    "province": "نیازمند تأیید",
+    "date": "نامشخص",
+    "details": "",
+    "confidence": "پایین",
+    "note": "در جست‌وجوی فعلی جزئیات عمومی قابل اتکای بیشتری پیدا نشد؛ محل فولدر، دسته‌بندی اولیه شماست و لزوماً محل دقیق کشته‌شدن تأییدشده نیست.",
+    "sources": [],
+    "image": "images/032.png"
+  },
+  {
+    "id": 33,
+    "name": "مهدی احمدی",
+    "category": "اراک",
+    "age": "نامشخص",
+    "death_place": "اراک",
+    "province": "مرکزی",
+    "date": "۱۸ دی ۱۴۰۴",
+    "details": "ساکن روستای کزاز نزدیک اراک؛ پس از چهار روز پیکرش شناسایی شد.",
+    "confidence": "بالا",
+    "note": "",
+    "sources": [
+      "https://www.iranintl.com/202601284347"
+    ],
+    "image": "images/033.jpg"
+  },
+  {
+    "id": 34,
+    "name": "مهرداد مشتاقی",
+    "category": "اراک",
+    "age": "27",
+    "death_place": "اراک",
+    "province": "مرکزی",
+    "date": "۱۹ دی ۱۴۰۴ (درگذشت ۲۳ دی پس از جراحت)",
+    "details": "مهندس معماری؛ گلوله جنگی به سر اصابت کرد و چهار روز بعد در بیمارستان جان باخت.",
+    "confidence": "بالا",
+    "note": "",
+    "sources": [
+      "https://hengaw.org/victims/victims-50503bbc-20260418",
+      "https://www.iranintl.com/fa/202602093975"
+    ],
+    "image": "images/034.jpg"
+  },
+  {
+    "id": 35,
+    "name": "میثم صابری",
+    "category": "اراک",
+    "age": "41",
+    "death_place": "اراک",
+    "province": "مرکزی",
+    "date": "دی ۱۴۰۴",
+    "details": "صافکار و پدر یک دختر ۷ ساله؛ در خیابان مخابرات با خودروی نیروهای سرکوب زیر گرفته شد.",
+    "confidence": "بالا",
+    "note": "",
+    "sources": [
+      "https://www.iranintl.com/fa/202601212813"
+    ],
+    "image": "images/035.png"
+  },
+  {
+    "id": 36,
+    "name": "پرستو جراحیان",
+    "category": "اراک",
+    "age": "23",
+    "death_place": "اراک",
+    "province": "مرکزی",
+    "date": "۱۸ دی ۱۴۰۴",
+    "details": "در میدان شورا از ناحیه پهلو هدف تیر جنگی قرار گرفت.",
+    "confidence": "بالا",
+    "note": "",
+    "sources": [
+      "https://javidaniran.org/children/%D9%BE%D8%B1%D8%B3%D8%AA%D9%88-%D8%AC%D8%B1%D8%A7%D8%AD%DB%8C%D8%A7%D9%86/"
+    ],
+    "image": "images/036.png"
+  },
+  {
+    "id": 37,
+    "name": "کریم عاشوری",
+    "category": "اراک",
+    "age": "نامشخص",
+    "death_place": "نیازمند تأیید",
+    "province": "نیازمند تأیید",
+    "date": "نامشخص",
+    "details": "",
+    "confidence": "پایین",
+    "note": "در جست‌وجوی فعلی جزئیات عمومی قابل اتکای بیشتری پیدا نشد؛ محل فولدر، دسته‌بندی اولیه شماست و لزوماً محل دقیق کشته‌شدن تأییدشده نیست.",
+    "sources": [],
+    "image": "images/037.png"
+  },
+  {
+    "id": 38,
+    "name": "یاسر مجیدی",
+    "category": "اراک",
+    "age": "21",
+    "death_place": "اراک",
+    "province": "مرکزی",
+    "date": "۱۸ دی ۱۴۰۴",
+    "details": "در فهرست‌های چندگانه جان‌باختگان اراک ثبت شده است.",
+    "confidence": "متوسط",
+    "note": "",
+    "sources": [
+      "https://www.iranncr.org/2026/01/27/13795/",
+      "https://www.namesofiran.org/fa/iran/markazi/arak"
+    ],
+    "image": "images/038.png"
+  },
+  {
+    "id": 39,
+    "name": "صالحه اکبری",
+    "category": "اردبیل",
+    "age": "35",
+    "death_place": "اردبیل",
+    "province": "اردبیل",
+    "date": "۱۸ یا ۲۲ دی ۱۴۰۴ (اختلاف منبع)",
+    "details": "اهل اراک و ساکن اردبیل؛ تکنسین اتاق عمل/پرستار و کوهنورد. گزارش هه‌نگاو شلیک در منزل را شرح می‌دهد.",
+    "confidence": "متوسط",
+    "note": "",
+    "sources": [
+      "https://hengaw.org/victims/victims-2760090a-20260402",
+      "https://witness.report/people/e688ac83-0231-11f1-a725-560003f1f421/saleheh-akbari"
+    ],
+    "image": "images/039.png"
+  },
+  {
+    "id": 40,
+    "name": "ابوالفضل اسماعیلی",
+    "category": "تهران",
+    "age": "نامشخص",
+    "death_place": "تهران",
+    "province": "تهران",
+    "date": "۱۸ دی ۱۴۰۴",
+    "details": "در کانال آرشیوی «نام‌ها را به خاطر بسپار» با نام ابوالفضل اسماعیلی فیجانی ثبت شده است؛ تطبیق نام خانوادگی نیازمند تأیید.",
+    "confidence": "پایین",
+    "note": "",
+    "sources": [
+      "https://t.me/s/RememberTheirNames/2035"
+    ],
+    "image": "images/040.png"
+  },
+  {
+    "id": 41,
+    "name": "امیرحسین رازگردانی",
+    "category": "تهران",
+    "age": "24",
+    "death_place": "تهران",
+    "province": "تهران",
+    "date": "۱۹ دی ۱۴۰۴",
+    "details": "اهل روستای رازگردان اراک؛ در اعتراضات تهران با شلیک کشته شد.",
+    "confidence": "بالا",
+    "note": "",
+    "sources": [
+      "https://iranwire.com/fa/news-1/148076-%D8%A7%D9%85%DB%8C%D8%B1%D8%AD%D8%B3%DB%8C%D9%86-%D8%B1%D8%A7%D8%B2%DA%AF%D8%B1%D8%AF%D8%A7%D9%86%DB%8C-%D8%AF%D8%B1-%D8%A7%D8%B9%D8%AA%D8%B1%D8%A7%D8%B6%D8%A7%D8%AA-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%DA%A9%D8%B4%D8%AA%D9%87-%D8%B4%D8%AF/"
+    ],
+    "image": "images/041.png"
+  },
+  {
+    "id": 42,
+    "name": "امیرمهدی رازگردانی",
+    "category": "تهران",
+    "age": "نامشخص",
+    "death_place": "تهران",
+    "province": "تهران",
+    "date": "۱۸ دی ۱۴۰۴",
+    "details": "در فهرست یادبود «نام‌ها را به خاطر بسپار» با تاریخ و محل ثبت شده است.",
+    "confidence": "متوسط",
+    "note": "",
+    "sources": [
+      "https://t.me/s/RememberTheirNames/2154"
+    ],
+    "image": "images/042.png"
+  },
+  {
+    "id": 43,
+    "name": "ایمان فرعی",
+    "category": "تهران",
+    "age": "نامشخص",
+    "death_place": "نیازمند تأیید",
+    "province": "نیازمند تأیید",
+    "date": "نامشخص",
+    "details": "",
+    "confidence": "پایین",
+    "note": "در جست‌وجوی فعلی جزئیات عمومی قابل اتکای بیشتری پیدا نشد؛ محل فولدر، دسته‌بندی اولیه شماست و لزوماً محل دقیق کشته‌شدن تأییدشده نیست.",
+    "sources": [],
+    "image": "images/043.png"
+  },
+  {
+    "id": 44,
+    "name": "بهرام یوسفی",
+    "category": "تهران",
+    "age": "29",
+    "death_place": "نازی‌آباد، تهران",
+    "province": "تهران",
+    "date": "۱۸ دی ۱۴۰۴",
+    "details": "اهل شازند و ساکن تهران؛ پدر یک کودک، فروشنده و تولیدکننده پوشاک؛ گلوله به قلب اصابت کرد.",
+    "confidence": "بالا",
+    "note": "",
+    "sources": [
+      "https://iranwire.com/fa/news-1/153615-%D8%A7%D8%AD%D8%B1%D8%A7%D8%B2-%D9%87%D9%88%DB%8C%D8%AA-%DB%8C%DA%A9%DB%8C-%D8%A7%D8%B2-%DA%A9%D8%B4%D8%AA%D9%87%D8%B4%D8%AF%DA%AF%D8%A7%D9%86-%D9%86%D8%A7%D8%B2%DB%8C%D8%A2%D8%A8%D8%A7%D8%AF-%D9%82%D9%84%D8%A8-%D8%A8%D9%87%D8%B1%D8%A7%D9%85-%DB%8C%D9%88%D8%B3%D9%81%DB%8C-%D8%B1%D8%A7-%D9%86%D8%B4%D8%A7%D9%86%D9%87-%DA%AF%D8%B1%D9%81%D8%AA%D9%86%D8%AF/"
+    ],
+    "image": "images/044.png"
+  },
+  {
+    "id": 45,
+    "name": "جواد طاهری کمال",
+    "category": "تهران",
+    "age": "نامشخص",
+    "death_place": "نیازمند تأیید",
+    "province": "نیازمند تأیید",
+    "date": "نامشخص",
+    "details": "",
+    "confidence": "پایین",
+    "note": "در جست‌وجوی فعلی جزئیات عمومی قابل اتکای بیشتری پیدا نشد؛ محل فولدر، دسته‌بندی اولیه شماست و لزوماً محل دقیق کشته‌شدن تأییدشده نیست.",
+    "sources": [],
+    "image": "images/045.png"
+  },
+  {
+    "id": 46,
+    "name": "حسن کلهر",
+    "category": "تهران",
+    "age": "نامشخص",
+    "death_place": "فردیس/کرج",
+    "province": "البرز",
+    "date": "دی ۱۴۰۴",
+    "details": "فوتبالیست پیشین و داور فوتبال، اهل دلیجان؛ در اعتراضات فردیس کرج کشته شد.",
+    "confidence": "بالا",
+    "note": "تفاوت با فولدر «تهران»: پژوهش محل کشته‌شدن را فردیس/کرج نشان می‌دهد.",
+    "sources": [
+      "https://www.iranintl.com/202601254079"
+    ],
+    "image": "images/046.png"
+  },
+  {
+    "id": 47,
+    "name": "حسین رحیمی",
+    "category": "تهران",
+    "age": "30",
+    "death_place": "سلسبیل، تهران",
+    "province": "تهران",
+    "date": "۱۸ دی ۱۴۰۴",
+    "details": "با شلیک مستقیم گلوله جنگی کشته شد.",
+    "confidence": "بالا",
+    "note": "",
+    "sources": [
+      "https://witness.report/people/2cb28f8b-fbc1-11f0-a725-560003f1f421/hosein-rahimi"
+    ],
+    "image": "images/047.png"
+  },
+  {
+    "id": 48,
+    "name": "حمیدرضا محمدطاهری",
+    "category": "تهران",
+    "age": "50",
+    "death_place": "تهران",
+    "province": "تهران",
+    "date": "۱۸ دی ۱۴۰۴",
+    "details": "در پایگاه نام‌های ایران با سن ۵۰ سال و تاریخ ۱۸ دی ثبت شده است.",
+    "confidence": "متوسط",
+    "note": "",
+    "sources": [
+      "https://www.namesofiran.org/fa/2025-26-iranian-protests"
+    ],
+    "image": "images/048.png"
+  },
+  {
+    "id": 49,
+    "name": "رضا امین‌زاده",
+    "category": "تهران",
+    "age": "نامشخص",
+    "death_place": "نیازمند تأیید",
+    "province": "نیازمند تأیید",
+    "date": "نامشخص",
+    "details": "",
+    "confidence": "پایین",
+    "note": "در جست‌وجوی فعلی جزئیات عمومی قابل اتکای بیشتری پیدا نشد؛ محل فولدر، دسته‌بندی اولیه شماست و لزوماً محل دقیق کشته‌شدن تأییدشده نیست.",
+    "sources": [],
+    "image": "images/049.png"
+  },
+  {
+    "id": 50,
+    "name": "سعید خورچه فراهانی",
+    "category": "تهران",
+    "age": "32",
+    "death_place": "افسریه، تهران",
+    "province": "تهران",
+    "date": "۱۸ دی ۱۴۰۴",
+    "details": "اهل آشتیان؛ با شلیک تک‌تیرانداز/گلوله جنگی به سر کشته شد.",
+    "confidence": "بالا",
+    "note": "",
+    "sources": [
+      "https://witness.report/people/cb44d32f-fb66-11f0-a725-560003f1f421/saeed-khorche-farahani",
+      "https://www.iranintl.com/202602164863"
+    ],
+    "image": "images/050.png"
+  },
+  {
+    "id": 51,
+    "name": "علی اسدالهی",
+    "category": "تهران",
+    "age": "نامشخص",
+    "death_place": "نیازمند تأیید",
+    "province": "نیازمند تأیید",
+    "date": "نامشخص",
+    "details": "",
+    "confidence": "پایین",
+    "note": "در جست‌وجوی فعلی جزئیات عمومی قابل اتکای بیشتری پیدا نشد؛ محل فولدر، دسته‌بندی اولیه شماست و لزوماً محل دقیق کشته‌شدن تأییدشده نیست.",
+    "sources": [],
+    "image": "images/051.png"
+  },
+  {
+    "id": 52,
+    "name": "علی میرزایی",
+    "category": "تهران",
+    "age": "23",
+    "death_place": "نارمک، تهران",
+    "province": "تهران",
+    "date": "۱۸ دی ۱۴۰۴",
+    "details": "اهل اراک و دانشجوی ارشد دانشگاه صنعتی اراک؛ پس از اصابت گلوله و انتقال به بیمارستان جان باخت.",
+    "confidence": "بالا",
+    "note": "",
+    "sources": [
+      "https://hengaw.org/victims/victims-88727c33-20260408"
+    ],
+    "image": "images/052.png"
+  },
+  {
+    "id": 53,
+    "name": "فرزانه توکلی",
+    "category": "تهران",
+    "age": "نامشخص",
+    "death_place": "نیازمند تأیید",
+    "province": "نیازمند تأیید",
+    "date": "نامشخص",
+    "details": "",
+    "confidence": "پایین",
+    "note": "در جست‌وجوی فعلی جزئیات عمومی قابل اتکای بیشتری پیدا نشد؛ محل فولدر، دسته‌بندی اولیه شماست و لزوماً محل دقیق کشته‌شدن تأییدشده نیست.",
+    "sources": [],
+    "image": "images/053.png"
+  },
+  {
+    "id": 54,
+    "name": "متین حسینی",
+    "category": "تهران",
+    "age": "16-17",
+    "death_place": "شهرک اندیشه، تهران",
+    "province": "تهران",
+    "date": "۱۹ دی ۱۴۰۴",
+    "details": "دانش‌آموز پایه یازدهم و برق‌کار؛ با گلوله به سر مجروح شد.",
+    "confidence": "متوسط",
+    "note": "",
+    "sources": [
+      "https://witness.report/people/e49ad436-096f-11f1-9fbd-560003f1f421/mohammad-matin-hosseini",
+      "https://shohadayeghiam.info/list?date=1404-10&page=28"
+    ],
+    "image": "images/054.png"
+  },
+  {
+    "id": 55,
+    "name": "مجید صالحی سیاوشانی",
+    "category": "تهران",
+    "age": "40",
+    "death_place": "تهرانپارس، تهران",
+    "province": "تهران",
+    "date": "۱۸ دی ۱۴۰۴",
+    "details": "همسر مریم صالحی؛ هنگام محافظت از او نیز هدف قرار گرفت و کشته شد.",
+    "confidence": "بالا",
+    "note": "",
+    "sources": [
+      "https://www.namesofiran.org/fa/people/majid-salehi-siaoshani",
+      "https://javidaniran.org/children/%D9%85%D8%B1%DB%8C%D9%85-%D8%B5%D8%A7%D9%84%D8%AD%DB%8C/"
+    ],
+    "image": "images/055.png"
+  },
+  {
+    "id": 56,
+    "name": "محمد رادمان",
+    "category": "تهران",
+    "age": "نامشخص",
+    "death_place": "نیازمند تأیید",
+    "province": "نیازمند تأیید",
+    "date": "نامشخص",
+    "details": "",
+    "confidence": "پایین",
+    "note": "در جست‌وجوی فعلی جزئیات عمومی قابل اتکای بیشتری پیدا نشد؛ محل فولدر، دسته‌بندی اولیه شماست و لزوماً محل دقیق کشته‌شدن تأییدشده نیست.",
+    "sources": [],
+    "image": "images/056.png"
+  },
+  {
+    "id": 57,
+    "name": "مرتضی سرلک",
+    "category": "تهران",
+    "age": "40-41",
+    "death_place": "پرند، تهران",
+    "province": "تهران",
+    "date": "۱۸ دی ۱۴۰۴",
+    "details": "اهل الیگودرز، تراشکار، متأهل و پدر سه فرزند؛ با شلیک مستقیم کشته شد.",
+    "confidence": "بالا",
+    "note": "",
+    "sources": [
+      "https://hengaw.org/victims/victims-2e6384c6-20260521",
+      "https://shohadayeghiam.info/list?date=1404-10&page=28"
+    ],
+    "image": "images/057.png"
+  },
+  {
+    "id": 58,
+    "name": "مریم صالحی سیاوشانی",
+    "category": "تهران",
+    "age": "35",
+    "death_place": "تهرانپارس، تهران",
+    "province": "تهران",
+    "date": "۱۸ دی ۱۴۰۴",
+    "details": "به همراه همسرش مجید صالحی سیاوشانی در اعتراضات تهرانپارس با شلیک گلوله جنگی کشته شد.",
+    "confidence": "بالا",
+    "note": "",
+    "sources": [
+      "https://javidaniran.org/children/%D9%85%D8%B1%DB%8C%D9%85-%D8%B5%D8%A7%D9%84%D8%AD%DB%8C/"
+    ],
+    "image": "images/058.png"
+  },
+  {
+    "id": 59,
+    "name": "مهدی میرزایی",
+    "category": "تهران",
+    "age": "23",
+    "death_place": "تهران",
+    "province": "تهران",
+    "date": "دی ۱۴۰۴",
+    "details": "در فهرست جان‌باختگان تهران با سن ۲۳ سال ثبت شده است.",
+    "confidence": "متوسط",
+    "note": "",
+    "sources": [
+      "https://shohadayeghiam.info/list?page=13"
+    ],
+    "image": "images/059.png"
+  },
+  {
+    "id": 60,
+    "name": "هادی زارعی",
+    "category": "تهران",
+    "age": "نامشخص",
+    "death_place": "نیازمند تأیید",
+    "province": "نیازمند تأیید",
+    "date": "نامشخص",
+    "details": "",
+    "confidence": "پایین",
+    "note": "در جست‌وجوی فعلی جزئیات عمومی قابل اتکای بیشتری پیدا نشد؛ محل فولدر، دسته‌بندی اولیه شماست و لزوماً محل دقیق کشته‌شدن تأییدشده نیست.",
+    "sources": [],
+    "image": "images/060.png"
+  },
+  {
+    "id": 61,
+    "name": "⁨ ⁨ احمدرضا زمانی⁩⁩",
+    "category": "تهران",
+    "age": "نامشخص",
+    "death_place": "نیازمند تأیید",
+    "province": "نیازمند تأیید",
+    "date": "نامشخص",
+    "details": "",
+    "confidence": "پایین",
+    "note": "در جست‌وجوی فعلی جزئیات عمومی قابل اتکای بیشتری پیدا نشد؛ محل فولدر، دسته‌بندی اولیه شماست و لزوماً محل دقیق کشته‌شدن تأییدشده نیست.",
+    "sources": [],
+    "image": "images/061.png"
+  },
+  {
+    "id": 62,
+    "name": "احمد صالحی",
+    "category": "خمین",
+    "age": "25",
+    "death_place": "خمین",
+    "province": "مرکزی",
+    "date": "۱۸ دی ۱۴۰۴",
+    "details": "اهل فرج‌آباد الیگودرز؛ طبق منابع با شلیک از فاصله نزدیک کشته شد.",
+    "confidence": "متوسط",
+    "note": "",
+    "sources": [
+      "https://shohadayeghiam.info/4142"
+    ],
+    "image": "images/062.png"
+  },
+  {
+    "id": 63,
+    "name": "ایمان بهداری",
+    "category": "خمین",
+    "age": "25",
+    "death_place": "اراک",
+    "province": "مرکزی",
+    "date": "۱۹ دی ۱۴۰۴",
+    "details": "اهل خمین و مربی فوتبال؛ در اعتراضات اراک با شلیک مستقیم کشته و در خمین دفن شد.",
+    "confidence": "بالا",
+    "note": "تفاوت با فولدر «خمین»: پژوهش محل کشته‌شدن را اراک نشان می‌دهد.",
+    "sources": [
+      "https://witness.report/people/cf4334f2-f8c2-11f0-af24-560003f1f421/iman-behdari",
+      "https://javidaniran.org/children/%D8%A7%DB%8C%D9%85%D8%A7%D9%86-%D8%A8%D9%87%D8%AF%D8%A7%D8%B1%DB%8C-2/"
+    ],
+    "image": "images/063.png"
+  },
+  {
+    "id": 64,
+    "name": "سجاد کمان‌کش",
+    "category": "خمین",
+    "age": "نامشخص",
+    "death_place": "نیازمند تأیید",
+    "province": "نیازمند تأیید",
+    "date": "نامشخص",
+    "details": "",
+    "confidence": "پایین",
+    "note": "در جست‌وجوی فعلی جزئیات عمومی قابل اتکای بیشتری پیدا نشد؛ محل فولدر، دسته‌بندی اولیه شماست و لزوماً محل دقیق کشته‌شدن تأییدشده نیست.",
+    "sources": [],
+    "image": "images/064.png"
+  },
+  {
+    "id": 65,
+    "name": "ماشاالله نوری",
+    "category": "خمین",
+    "age": "نامشخص",
+    "death_place": "نیازمند تأیید",
+    "province": "نیازمند تأیید",
+    "date": "نامشخص",
+    "details": "",
+    "confidence": "پایین",
+    "note": "در جست‌وجوی فعلی جزئیات عمومی قابل اتکای بیشتری پیدا نشد؛ محل فولدر، دسته‌بندی اولیه شماست و لزوماً محل دقیق کشته‌شدن تأییدشده نیست.",
+    "sources": [],
+    "image": "images/065.png"
+  },
+  {
+    "id": 66,
+    "name": "ستایش سوسن آبادی",
+    "category": "رشت",
+    "age": "نامشخص",
+    "death_place": "نیازمند تأیید",
+    "province": "نیازمند تأیید",
+    "date": "نامشخص",
+    "details": "",
+    "confidence": "پایین",
+    "note": "در جست‌وجوی فعلی جزئیات عمومی قابل اتکای بیشتری پیدا نشد؛ محل فولدر، دسته‌بندی اولیه شماست و لزوماً محل دقیق کشته‌شدن تأییدشده نیست.",
+    "sources": [],
+    "image": "images/066.png"
+  },
+  {
+    "id": 67,
+    "name": "امیرعباس امینی",
+    "category": "ساوه",
+    "age": "12",
+    "death_place": "ساوه",
+    "province": "مرکزی",
+    "date": "۱۹ دی ۱۴۰۴",
+    "details": "به همراه پدرش محمدجواد امینی در اعتراضات ساوه کشته شد.",
+    "confidence": "بالا",
+    "note": "",
+    "sources": [
+      "https://javidaniran.org/children/%D8%A7%D9%85%DB%8C%D8%B1%D8%B9%D8%A8%D8%A7%D8%B3-%D8%A7%D9%85%DB%8C%D9%86%DB%8C/"
+    ],
+    "image": "images/067.png"
+  },
+  {
+    "id": 68,
+    "name": "بشیر کریمی",
+    "category": "ساوه",
+    "age": "36",
+    "death_place": "ساوه",
+    "province": "مرکزی",
+    "date": "۱۹ دی ۱۴۰۴",
+    "details": "حوالی ساعت ۱۱ شب مقابل باقرالعلوم با گلوله به چند ناحیه بدن کشته شد.",
+    "confidence": "بالا",
+    "note": "",
+    "sources": [
+      "https://witness.report/people/c419453c-1280-11f1-97e4-560003f1f421/bashir-karimi"
+    ],
+    "image": "images/068.png"
+  },
+  {
+    "id": 69,
+    "name": "علی اصغر اسماعیلی",
+    "category": "ساوه",
+    "age": "نامشخص",
+    "death_place": "نیازمند تأیید",
+    "province": "نیازمند تأیید",
+    "date": "نامشخص",
+    "details": "",
+    "confidence": "پایین",
+    "note": "در جست‌وجوی فعلی جزئیات عمومی قابل اتکای بیشتری پیدا نشد؛ محل فولدر، دسته‌بندی اولیه شماست و لزوماً محل دقیق کشته‌شدن تأییدشده نیست.",
+    "sources": [],
+    "image": "images/069.png"
+  },
+  {
+    "id": 70,
+    "name": "محسن برجی",
+    "category": "ساوه",
+    "age": "نامشخص",
+    "death_place": "نیازمند تأیید",
+    "province": "نیازمند تأیید",
+    "date": "نامشخص",
+    "details": "",
+    "confidence": "پایین",
+    "note": "در جست‌وجوی فعلی جزئیات عمومی قابل اتکای بیشتری پیدا نشد؛ محل فولدر، دسته‌بندی اولیه شماست و لزوماً محل دقیق کشته‌شدن تأییدشده نیست.",
+    "sources": [],
+    "image": "images/070.png"
+  },
+  {
+    "id": 71,
+    "name": "محمد رضا رحمتی",
+    "category": "ساوه",
+    "age": "نامشخص",
+    "death_place": "نیازمند تأیید",
+    "province": "نیازمند تأیید",
+    "date": "نامشخص",
+    "details": "",
+    "confidence": "پایین",
+    "note": "در جست‌وجوی فعلی جزئیات عمومی قابل اتکای بیشتری پیدا نشد؛ محل فولدر، دسته‌بندی اولیه شماست و لزوماً محل دقیق کشته‌شدن تأییدشده نیست.",
+    "sources": [],
+    "image": "images/071.png"
+  },
+  {
+    "id": 72,
+    "name": "محمدجواد امینی",
+    "category": "ساوه",
+    "age": "38",
+    "death_place": "ساوه",
+    "province": "مرکزی",
+    "date": "۱۹ دی ۱۴۰۴",
+    "details": "پدر امیرعباس امینی؛ پدر و پسر در اعتراضات ساوه کشته شدند.",
+    "confidence": "بالا",
+    "note": "",
+    "sources": [
+      "https://javidaniran.org/children/%D9%85%D8%AD%D9%85%D8%AF-%D8%AC%D9%88%D8%A7%D8%AF-%D8%A7%D9%85%DB%8C%D9%86%DB%8C/"
+    ],
+    "image": "images/072.png"
+  },
+  {
+    "id": 73,
+    "name": "محمدحسین اصغری",
+    "category": "ساوه",
+    "age": "23",
+    "death_place": "ساوه",
+    "province": "مرکزی",
+    "date": "دی ۱۴۰۴",
+    "details": "در فهرست جان‌باختگان ساوه با سن ۲۳ سال ثبت شده است.",
+    "confidence": "متوسط",
+    "note": "",
+    "sources": [
+      "https://shohadayeghiam.info/4144"
+    ],
+    "image": "images/073.png"
+  },
+  {
+    "id": 74,
+    "name": "میلاد ذبیحی",
+    "category": "ساوه",
+    "age": "نامشخص",
+    "death_place": "نیازمند تأیید",
+    "province": "نیازمند تأیید",
+    "date": "نامشخص",
+    "details": "",
+    "confidence": "پایین",
+    "note": "در جست‌وجوی فعلی جزئیات عمومی قابل اتکای بیشتری پیدا نشد؛ محل فولدر، دسته‌بندی اولیه شماست و لزوماً محل دقیق کشته‌شدن تأییدشده نیست.",
+    "sources": [],
+    "image": "images/074.png"
+  },
+  {
+    "id": 75,
+    "name": "جابر صالحی",
+    "category": "شازند",
+    "age": "44-45",
+    "death_place": "شازند",
+    "province": "مرکزی",
+    "date": "۱۹ دی ۱۴۰۴",
+    "details": "جوشکار پالایشگاه شازند و پدر دو فرزند؛ گلوله جنگی به شکم اصابت کرد.",
+    "confidence": "بالا",
+    "note": "",
+    "sources": [
+      "https://witness.report/people/0bc9ee96-f8c5-11f0-af24-560003f1f421/jaber-salehi",
+      "https://www.independentpersian.com/node/421137/"
+    ],
+    "image": "images/075.jpg"
+  },
+  {
+    "id": 76,
+    "name": "حسن قادری",
+    "category": "شازند",
+    "age": "نامشخص",
+    "death_place": "نیازمند تأیید",
+    "province": "نیازمند تأیید",
+    "date": "نامشخص",
+    "details": "",
+    "confidence": "پایین",
+    "note": "در جست‌وجوی فعلی جزئیات عمومی قابل اتکای بیشتری پیدا نشد؛ محل فولدر، دسته‌بندی اولیه شماست و لزوماً محل دقیق کشته‌شدن تأییدشده نیست.",
+    "sources": [],
+    "image": "images/076.png"
+  },
+  {
+    "id": 77,
+    "name": "شکوفه عبدی",
+    "category": "شازند",
+    "age": "36-38",
+    "death_place": "اراک",
+    "province": "مرکزی",
+    "date": "۱۸ یا ۱۹ دی ۱۴۰۴ (اختلاف منبع)",
+    "details": "عکاس، اهل شازند و شاغل/ساکن اراک؛ با شلیک مستقیم به سر کشته شد و در شازند دفن شد.",
+    "confidence": "متوسط",
+    "note": "تفاوت با فولدر «شازند»: پژوهش محل کشته‌شدن را اراک نشان می‌دهد.",
+    "sources": [
+      "https://www.iranintl.com/202601274784",
+      "https://javidaniran.org/children/%D8%B4%DA%A9%D9%88%D9%81%D9%87-%D8%B9%D8%A8%D8%AF%DB%8C/"
+    ],
+    "image": "images/077.png"
+  },
+  {
+    "id": 78,
+    "name": "محمدرضا نجفی",
+    "category": "شازند",
+    "age": "27",
+    "death_place": "شازند",
+    "province": "مرکزی",
+    "date": "۱۹ دی ۱۴۰۴",
+    "details": "راننده ماشین سنگین؛ مقابل آبشار شازند با تیر جنگی کشته شد.",
+    "confidence": "بالا",
+    "note": "",
+    "sources": [
+      "https://iranwire.com/petition/147978-%D9%85%D8%AD%D9%85%D8%AF%D8%B1%D8%B6%D8%A7-%D9%86%D8%AC%D9%81%DB%8C-%D8%AF%D8%B1-%D8%A7%D8%B9%D8%AA%D8%B1%D8%A7%D8%B6%D8%A7%D8%AA-%DB%B1%DB%B9%D8%AF%DB%8C-%D8%B4%D8%A7%D8%B2%D9%86%D8%AF-%DA%A9%D8%B4%D8%AA%D9%87-%D8%B4%D8%AF/",
+      "https://witness.report/people/8e7dc785-f8c4-11f0-af24-560003f1f421/mohammad-reza-najafi"
+    ],
+    "image": "images/078.png"
+  },
+  {
+    "id": 79,
+    "name": "یاسین کیان‌پور",
+    "category": "شازند",
+    "age": "نامشخص",
+    "death_place": "نیازمند تأیید",
+    "province": "نیازمند تأیید",
+    "date": "نامشخص",
+    "details": "",
+    "confidence": "پایین",
+    "note": "در جست‌وجوی فعلی جزئیات عمومی قابل اتکای بیشتری پیدا نشد؛ محل فولدر، دسته‌بندی اولیه شماست و لزوماً محل دقیق کشته‌شدن تأییدشده نیست.",
+    "sources": [],
+    "image": "images/079.jpg"
+  },
+  {
+    "id": 80,
+    "name": "سید شهاب‌الدین ابطحی‌زاد",
+    "category": "قیام  زن زندگی آزادی و قیام دی ۹۶",
+    "age": "نامشخص",
+    "death_place": "اراک",
+    "province": "مرکزی",
+    "date": "دی ۱۳۹۶",
+    "details": "برای این نام در جست‌وجوی عمومی فعلی منبع مستقل با جزئیات کافی پیدا نشد؛ نیازمند بررسی آرشیوی بیشتر است.",
+    "confidence": "پایین",
+    "note": "",
+    "sources": [],
+    "image": "images/080.png"
+  },
+  {
+    "id": 81,
+    "name": "سینا ملایری",
+    "category": "قیام  زن زندگی آزادی و قیام دی ۹۶",
+    "age": "نامشخص",
+    "death_place": "اراک",
+    "province": "مرکزی",
+    "date": "۳۰ مهر ۱۴۰۱",
+    "details": "دانشجوی پزشکی؛ منابع محلی/حقوق بشری مرگ پس از ضربات باتوم را گزارش کرده‌اند؛ مقام قضایی علت را مصرف مواد اعلام کرد، بنابراین درباره علت مرگ اختلاف روایت جدی وجود دارد.",
+    "confidence": "متوسط",
+    "note": "",
+    "sources": [
+      "https://www.iranrights.org/fa/memorial/browse/alpha/433",
+      "https://www.radiofarda.com/a/32101143.html"
+    ],
+    "image": "images/081.png"
+  },
+  {
+    "id": 82,
+    "name": "مهرشاد شهیدی",
+    "category": "قیام  زن زندگی آزادی و قیام دی ۹۶",
+    "age": "19",
+    "death_place": "اراک",
+    "province": "مرکزی",
+    "date": "۵ آبان ۱۴۰۱",
+    "details": "سرآشپز و دانشجو؛ گزارش‌های مستقل می‌گویند پس از بازداشت با ضربات باتوم به سر کشته شد.",
+    "confidence": "بالا",
+    "note": "",
+    "sources": [
+      "https://www.iranintl.com/202210284202",
+      "https://iranwire.com/fa/news-1/109074-%DA%A9%D8%B4%D8%AA%D9%87-%D8%B4%D8%AF%D9%86-%D8%B3%D8%B1%D8%A2%D8%B4%D9%BE%D8%B2-%DB%B1%DB%B9-%D8%B3%D8%A7%D9%84%D9%87-%D8%AF%D8%B1-%D8%A7%D8%AB%D8%B1-%D8%B6%D8%B1%D8%A8%D8%A7%D8%AA-%D8%A8%D8%A7%D8%AA%D9%88%D9%85/"
+    ],
+    "image": "images/082.png"
+  },
+  {
+    "id": 83,
+    "name": "وحید حیدری",
+    "category": "قیام  زن زندگی آزادی و قیام دی ۹۶",
+    "age": "23",
+    "death_place": "اراک",
+    "province": "مرکزی",
+    "date": "۱۵ دی ۱۳۹۶",
+    "details": "در جریان اعتراضات دی ۱۳۹۶ بازداشت شد و در دوران بازداشت/زندان جان باخت.",
+    "confidence": "بالا",
+    "note": "",
+    "sources": [
+      "https://www.iranrights.org/fa/memorial/correct/-8106/vahid-heidari"
+    ],
+    "image": "images/083.jpg"
+  },
+  {
+    "id": 84,
+    "name": "احمد هاشمی",
+    "category": "محلات",
+    "age": "22",
+    "death_place": "محلات/نیم‌ور",
+    "province": "مرکزی",
+    "date": "۲۱ دی ۱۴۰۴ (پس از سه روز بستری)",
+    "details": "اهل و ساکن نیم‌ور از توابع محلات؛ پس از سه روز بستری جان باخت.",
+    "confidence": "بالا",
+    "note": "",
+    "sources": [
+      "https://hengaw.net/fa/news/2026/01/article-190-1"
+    ],
+    "image": "images/084.png"
+  },
+  {
+    "id": 85,
+    "name": "بهنام کاشانی",
+    "category": "محلات",
+    "age": "نامشخص",
+    "death_place": "نیازمند تأیید",
+    "province": "نیازمند تأیید",
+    "date": "نامشخص",
+    "details": "",
+    "confidence": "پایین",
+    "note": "در جست‌وجوی فعلی جزئیات عمومی قابل اتکای بیشتری پیدا نشد؛ محل فولدر، دسته‌بندی اولیه شماست و لزوماً محل دقیق کشته‌شدن تأییدشده نیست.",
+    "sources": [],
+    "image": "images/085.png"
+  },
+  {
+    "id": 86,
+    "name": "محمد سلطانی‌فر",
+    "category": "محلات",
+    "age": "16",
+    "death_place": "محلات",
+    "province": "مرکزی",
+    "date": "دی ۱۴۰۴",
+    "details": "در فهرست چندگانه جان‌باختگان محلات با سن ۱۶ سال ثبت شده است.",
+    "confidence": "متوسط",
+    "note": "",
+    "sources": [
+      "https://www.iranncr.org/2026/01/24/13775/",
+      "https://shohadayeghiam.info/list?location=%D9%85%D8%B1%DA%A9%D8%B2%DB%8C"
+    ],
+    "image": "images/086.png"
+  },
+  {
+    "id": 87,
+    "name": "حمیدرضا گودرزی",
+    "category": "کرج",
+    "age": "نامشخص",
+    "death_place": "نیازمند تأیید",
+    "province": "نیازمند تأیید",
+    "date": "نامشخص",
+    "details": "",
+    "confidence": "پایین",
+    "note": "در جست‌وجوی فعلی جزئیات عمومی قابل اتکای بیشتری پیدا نشد؛ محل فولدر، دسته‌بندی اولیه شماست و لزوماً محل دقیق کشته‌شدن تأییدشده نیست.",
+    "sources": [],
+    "image": "images/087.png"
+  },
+  {
+    "id": 88,
+    "name": "رضا رحمتی",
+    "category": "کرج",
+    "age": "نامشخص",
+    "death_place": "ملارد",
+    "province": "تهران",
+    "date": "۱۷ دی ۱۴۰۴",
+    "details": "با شلیک مستقیم به ناحیه سینه در اعتراضات ملارد کشته شد.",
+    "confidence": "بالا",
+    "note": "تفاوت با فولدر «کرج»: پژوهش محل کشته‌شدن را ملارد نشان می‌دهد.",
+    "sources": [
+      "https://hengaw.net/fa/news/2026/01/article-63"
+    ],
+    "image": "images/088.png"
+  }
+]
